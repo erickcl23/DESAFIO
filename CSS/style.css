@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+#index{
+    margin-left: 200px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button :hover{
+ color: darkgrey;   
+}
+button :active{
+    color: azure;
+}
+button{
+    width: 300px;
+    font-size: 20px;
+    margin-left: 50px;
+    background-color: 
+    #000000;
+    border-radius: 30px;
+    padding: 20px;
+    
+}
+.cuatro{
+    margin-top: 50px;
+}
+body {
+padding-top: 50px;
+padding-left: 250px;
+padding-right: 200px;
+
+background-color: #F5F5DC;
+font-size: 30px;
+font-family: monospace;
+}
+
